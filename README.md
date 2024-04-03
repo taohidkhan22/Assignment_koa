@@ -1,0 +1,3 @@
+- process - version, platform,  cpu usage
+- os - cpu details and usage
+- fs module, file write.
