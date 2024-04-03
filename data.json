@@ -1,0 +1,104 @@
+{
+  "os": {
+    "cpuUses": [
+      {
+        "model": "Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz",
+        "speed": 2496,
+        "times": {
+          "user": 670468,
+          "nice": 0,
+          "sys": 720312,
+          "idle": 15642906,
+          "irq": 60359
+        }
+      },
+      {
+        "model": "Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz",
+        "speed": 2496,
+        "times": {
+          "user": 248781,
+          "nice": 0,
+          "sys": 209343,
+          "idle": 16575046,
+          "irq": 3468
+        }
+      },
+      {
+        "model": "Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz",
+        "speed": 2496,
+        "times": {
+          "user": 497703,
+          "nice": 0,
+          "sys": 489671,
+          "idle": 16045812,
+          "irq": 8156
+        }
+      },
+      {
+        "model": "Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz",
+        "speed": 2496,
+        "times": {
+          "user": 271203,
+          "nice": 0,
+          "sys": 181656,
+          "idle": 16580312,
+          "irq": 2203
+        }
+      },
+      {
+        "model": "Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz",
+        "speed": 2496,
+        "times": {
+          "user": 381406,
+          "nice": 0,
+          "sys": 382312,
+          "idle": 16269468,
+          "irq": 5859
+        }
+      },
+      {
+        "model": "Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz",
+        "speed": 2496,
+        "times": {
+          "user": 299234,
+          "nice": 0,
+          "sys": 285390,
+          "idle": 16448531,
+          "irq": 4109
+        }
+      },
+      {
+        "model": "Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz",
+        "speed": 2496,
+        "times": {
+          "user": 336125,
+          "nice": 0,
+          "sys": 304937,
+          "idle": 16392093,
+          "irq": 3812
+        }
+      },
+      {
+        "model": "Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz",
+        "speed": 2496,
+        "times": {
+          "user": 266031,
+          "nice": 0,
+          "sys": 155515,
+          "idle": 16611609,
+          "irq": 2218
+        }
+      }
+    ],
+    "architecture": "x64",
+    "hostname": "NOObPC"
+  },
+  "process": {
+    "version": "v18.18.0",
+    "platform": "win32",
+    "cpuUsages": {
+      "user": 46000,
+      "system": 15000
+    }
+  }
+}
