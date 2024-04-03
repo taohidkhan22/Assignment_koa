@@ -1,4 +1,4 @@
 - process - version, platform,  cpu usage
 - os - cpu details and usage
 - fs module, file write.
-  -convert process and os into json using fs 
+  - convert process and os into json using fs 
