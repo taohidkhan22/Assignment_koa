@@ -2,9 +2,10 @@ const os= require('os');
 const fs=require('fs');
 const data = {
     os: {
-      cpuUses: os.cpus(),
       architecture: os.arch(),
-      hostname: os.hostname()
+      hostname: os.hostname(),
+      cpuUses: os.cpus()
+      
 
     },
     process: {

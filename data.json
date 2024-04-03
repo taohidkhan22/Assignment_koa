@@ -1,104 +1,104 @@
 {
   "os": {
+    "architecture": "x64",
+    "hostname": "NOObPC",
     "cpuUses": [
       {
         "model": "Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz",
         "speed": 2496,
         "times": {
-          "user": 670468,
+          "user": 680718,
           "nice": 0,
-          "sys": 720312,
-          "idle": 15642906,
-          "irq": 60359
+          "sys": 735906,
+          "idle": 15912125,
+          "irq": 60921
         }
       },
       {
         "model": "Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz",
         "speed": 2496,
         "times": {
-          "user": 248781,
+          "user": 253875,
           "nice": 0,
-          "sys": 209343,
-          "idle": 16575046,
-          "irq": 3468
+          "sys": 213031,
+          "idle": 16861328,
+          "irq": 3500
         }
       },
       {
         "model": "Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz",
         "speed": 2496,
         "times": {
-          "user": 497703,
+          "user": 509046,
           "nice": 0,
-          "sys": 489671,
-          "idle": 16045812,
-          "irq": 8156
+          "sys": 506906,
+          "idle": 16312281,
+          "irq": 8343
         }
       },
       {
         "model": "Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz",
         "speed": 2496,
         "times": {
-          "user": 271203,
+          "user": 275812,
           "nice": 0,
-          "sys": 181656,
-          "idle": 16580312,
-          "irq": 2203
+          "sys": 184421,
+          "idle": 16868000,
+          "irq": 2250
         }
       },
       {
         "model": "Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz",
         "speed": 2496,
         "times": {
-          "user": 381406,
+          "user": 389578,
           "nice": 0,
-          "sys": 382312,
-          "idle": 16269468,
-          "irq": 5859
+          "sys": 395890,
+          "idle": 16542765,
+          "irq": 6046
         }
       },
       {
         "model": "Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz",
         "speed": 2496,
         "times": {
-          "user": 299234,
+          "user": 303390,
           "nice": 0,
-          "sys": 285390,
-          "idle": 16448531,
-          "irq": 4109
+          "sys": 287953,
+          "idle": 16736875,
+          "irq": 4140
         }
       },
       {
         "model": "Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz",
         "speed": 2496,
         "times": {
-          "user": 336125,
+          "user": 341765,
           "nice": 0,
-          "sys": 304937,
-          "idle": 16392093,
-          "irq": 3812
+          "sys": 313031,
+          "idle": 16673421,
+          "irq": 3875
         }
       },
       {
         "model": "Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz",
         "speed": 2496,
         "times": {
-          "user": 266031,
+          "user": 270234,
           "nice": 0,
-          "sys": 155515,
-          "idle": 16611609,
-          "irq": 2218
+          "sys": 158750,
+          "idle": 16899234,
+          "irq": 2281
         }
       }
-    ],
-    "architecture": "x64",
-    "hostname": "NOObPC"
+    ]
   },
   "process": {
     "version": "v18.18.0",
     "platform": "win32",
     "cpuUsages": {
       "user": 46000,
-      "system": 15000
+      "system": 46000
     }
   }
 }
